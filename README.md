@@ -1,4 +1,4 @@
-# remine
+# Remine
 Remine Android automation
 
 Environment: 
