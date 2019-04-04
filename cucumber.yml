@@ -1,0 +1,11 @@
+all: -t @all --format html --out report.html --format pretty
+
+home: -t @home --format html --out report.html --format pretty
+
+agent_login: -t @agent_login --format html --out report.html --format pretty
+
+non_agent_login: -t @non_agent_login --format html --out report.html --format pretty
+
+sign_up_for_non_agent: -t @sign_up_for_non_agent --format html --out report.html --format pretty
+
+negative_invalid_email: -t @negative_invalid_email --format html --out report.html --format pretty
